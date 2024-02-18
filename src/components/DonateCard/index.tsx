@@ -64,7 +64,8 @@ export const DonateCard = () => {
   }
 
   useLayoutEffect(() => {
-    if (chapterNumber && chapterNumber !== 0 && chapterNumber % 10 === 0) {
+    const showPerNChapter = 100
+    if (chapterNumber && chapterNumber !== 0 && chapterNumber % showPerNChapter === 0) {
       const storedDate = window.localStorage.getItem(DONATE_DATE)
       const date = dayjs(storedDate)
       const now = dayjs()
