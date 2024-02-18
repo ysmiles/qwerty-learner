@@ -1,3 +1,7 @@
+# Note
+
+This is forked version for customized usages, for general usage please use official repo: https://github.com/RealKai42/qwerty-learner
+
 <div align=center>
 <img  src="src/assets/logo.svg"/>
 </div>
