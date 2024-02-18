@@ -196,7 +196,7 @@
         "notation": "留学(りゅうがく)"
     },
     {
-        "name": "akujon",
+        "name": "akushon",
         "trans": [
             "① 名  动作"
         ],
@@ -1953,7 +1953,7 @@
         "notation": "観客(かんきゃく)"
     },
     {
-        "name": "~hiki",
+        "name": "hiki",
         "trans": [
             " 接尾  （鸟、鱼、虫等小动物）只，条"
         ],
@@ -2037,7 +2037,7 @@
         "notation": "切符(きっぷ)"
     },
     {
-        "name": "~chuu",
+        "name": "chuu",
         "trans": [
             " 接尾  正在……"
         ],
@@ -2681,7 +2681,7 @@
         "notation": "警察(けいさつ)"
     },
     {
-        "name": "supe-chi",
+        "name": "supi-chi",
         "trans": [
             "② 名  演讲，致辞"
         ],
@@ -3213,7 +3213,7 @@
         "notation": "晴(は)れる"
     },
     {
-        "name": "~satsu",
+        "name": "satsu",
         "trans": [
             " 接尾  （书、本等）册，本"
         ],
@@ -3556,7 +3556,7 @@
         "notation": "論文(ろんぶん)"
     },
     {
-        "name": "~toshi",
+        "name": "toshi",
         "trans": [
             " 接尾  ……岁"
         ],
@@ -3836,7 +3836,7 @@
         "notation": "鳥(とり)"
     },
     {
-        "name": "~ya",
+        "name": "ya",
         "trans": [
             " 接尾  ……店；容易……的人"
         ],
@@ -3948,7 +3948,7 @@
         "notation": "石(せっ)けん"
     },
     {
-        "name": "~mai",
+        "name": "mai",
         "trans": [
             " 接尾  （薄片状物体）片，枚，张"
         ],
@@ -4270,7 +4270,7 @@
         "notation": "ごみ"
     },
     {
-        "name": "~ka",
+        "name": "ka",
         "trans": [
             " 接尾  （某种职业）……家"
         ],
@@ -4872,7 +4872,7 @@
         "notation": "たまに"
     },
     {
-        "name": "~go",
+        "name": "go",
         "trans": [
             " 接尾  ……之后"
         ],
@@ -5222,7 +5222,7 @@
         "notation": "医学(いがく)"
     },
     {
-        "name": "~sei",
+        "name": "sei",
         "trans": [
             "⓪ 接尾  （表示产地）……制造"
         ],
@@ -5530,7 +5530,7 @@
         "notation": "単位(たんい)"
     },
     {
-        "name": "~shiki",
+        "name": "shiki",
         "trans": [
             " 接尾  ……仪式；……类型"
         ],
@@ -6251,7 +6251,7 @@
         "notation": "遭(あ)う"
     },
     {
-        "name": "~kai",
+        "name": "kai",
         "trans": [
             " 接尾  （组织或活动）……会"
         ],
@@ -9247,7 +9247,7 @@
         "notation": "広(ひろ)がる"
     },
     {
-        "name": "~senchi",
+        "name": "senchi",
         "trans": [
             " 接尾  ……厘米"
         ],
@@ -9828,7 +9828,7 @@
         "notation": "部長(ぶちょう)"
     },
     {
-        "name": "~rittoru",
+        "name": "rittoru",
         "trans": [
             " 接尾  ……升"
         ],
@@ -9954,7 +9954,7 @@
         "notation": "待合室(まちあいしつ)"
     },
     {
-        "name": "~noki",
+        "name": "noki",
         "trans": [
             " 接尾  （房屋）……栋"
         ],
@@ -10297,7 +10297,7 @@
         "notation": "弾(ひ)く"
     },
     {
-        "name": "~han",
+        "name": "han",
         "trans": [
             " 接尾  （时间）……半"
         ],
@@ -10563,7 +10563,7 @@
         "notation": "到着(とうちゃく)"
     },
     {
-        "name": "shin~",
+        "name": "shin",
         "trans": [
             " 接头  新……"
         ],
@@ -11270,7 +11270,7 @@
         "notation": "小学生(しょうがくせい)"
     },
     {
-        "name": "~bansen",
+        "name": "bansen",
         "trans": [
             " 接尾  ……号线"
         ],
@@ -11725,7 +11725,7 @@
         "notation": "慣(な)れる"
     },
     {
-        "name": "~byou",
+        "name": "byou",
         "trans": [
             " 名  ……秒"
         ],

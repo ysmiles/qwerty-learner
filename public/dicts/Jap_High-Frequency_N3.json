@@ -490,7 +490,7 @@
         "notation": "普通(ふつう)"
     },
     {
-        "name": "~betsu",
+        "name": "betsu",
         "trans": [
             " 接尾  区别，按⋯⋯的不同"
         ],
@@ -1925,7 +1925,7 @@
         "notation": "満点(まんてん)"
     },
     {
-        "name": "~kagiri",
+        "name": "kagiri",
         "trans": [
             " 接尾  限于⋯⋯"
         ],
@@ -3402,7 +3402,7 @@
         "notation": "定員(ていいん)"
     },
     {
-        "name": "~doori",
+        "name": "doori",
         "trans": [
             " 接尾  按照⋯⋯；⋯⋯大街"
         ],
@@ -6314,7 +6314,7 @@
         "notation": "動詞(どうし)"
     },
     {
-        "name": "~nareru",
+        "name": "nareru",
         "trans": [
             " 接尾  ⋯⋯惯了"
         ],
@@ -7777,7 +7777,7 @@
         "notation": "マウス"
     },
     {
-        "name": "~tarazu",
+        "name": "tarazu",
         "trans": [
             " 接尾  ⋯⋯不足"
         ],
@@ -7819,7 +7819,7 @@
         "notation": "年代(ねんだい)"
     },
     {
-        "name": "~kaeru",
+        "name": "kaeru",
         "trans": [
             " 接尾  改⋯⋯，换⋯⋯"
         ],
@@ -9030,7 +9030,7 @@
         "notation": "スペース"
     },
     {
-        "name": "~gurashi",
+        "name": "gurashi",
         "trans": [
             " 接尾  ⋯⋯生活"
         ],
@@ -10402,7 +10402,7 @@
         "notation": "作製(さくせい)"
     },
     {
-        "name": "~sho",
+        "name": "sho",
         "trans": [
             " 接尾  ⋯⋯书"
         ],
@@ -10850,7 +10850,7 @@
         "notation": "フィルム"
     },
     {
-        "name": "~kasho",
+        "name": "kasho",
         "trans": [
             " 接尾  ⋯⋯处，⋯⋯的地方"
         ],
@@ -11326,7 +11326,7 @@
         "notation": "形式(けいしき)"
     },
     {
-        "name": "~gou",
+        "name": "gou",
         "trans": [
             " 接尾  （车、飞机等）号；（杂志等）号，期"
         ],
@@ -11347,7 +11347,7 @@
         "notation": "酒場(さかば)"
     },
     {
-        "name": "~saki",
+        "name": "saki",
         "trans": [
             " 接尾  ⋯⋯地点，⋯⋯目的地"
         ],
@@ -12173,7 +12173,7 @@
         "notation": "白髪(しらが)"
     },
     {
-        "name": "~jou",
+        "name": "jou",
         "trans": [
             " 接尾  （计算榻榻米的单位）⋯⋯张"
         ],
@@ -12698,7 +12698,7 @@
         "notation": "無(な)し"
     },
     {
-        "name": "~dukai",
+        "name": "dukai",
         "trans": [
             " 接尾  ⋯⋯用；⋯⋯用法；用⋯⋯的人"
         ],
@@ -12915,7 +12915,7 @@
         "notation": "返信(へんしん)"
     },
     {
-        "name": "~houdai",
+        "name": "houdai",
         "trans": [
             " 接尾  自由地⋯⋯，随便地⋯⋯"
         ],
@@ -13230,7 +13230,7 @@
         "notation": "横切(よこぎ)る"
     },
     {
-        "name": "~muke",
+        "name": "muke",
         "trans": [
             " 接尾  面向，以⋯⋯为对象"
         ],
@@ -13657,7 +13657,7 @@
         "notation": "真(ま)っ暗(くら)"
     },
     {
-        "name": "~busoku",
+        "name": "busoku",
         "trans": [
             " 接尾  ⋯⋯不足，⋯⋯不够"
         ],
@@ -13713,7 +13713,7 @@
         "notation": "引(ひ)き分(わ)け"
     },
     {
-        "name": "~naosu",
+        "name": "naosu",
         "trans": [
             " 接尾  重新⋯⋯"
         ],
